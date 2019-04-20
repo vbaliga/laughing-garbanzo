@@ -1,0 +1,1 @@
+laughing-garbanzo was a name that github's auto-generated alorgithm suggested for another project. i'm leaving this repository here as a placeholder for an eventual project that will live up to the hype 
